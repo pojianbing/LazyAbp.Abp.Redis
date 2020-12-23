@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Description>abp vnext CsRedisCore模块</Description>
+    <RepositoryUrl>https://github.com/pojianbing/LazyAbp.Abp.Redis</RepositoryUrl>
+    <Authors>pojianbing</Authors>
+    <Version>1.0.1</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CSRedisCore" Version="3.6.5" />
+    <PackageReference Include="Volo.Abp.Ddd.Domain" Version="3.3.1" />
+  </ItemGroup>
+
+</Project>

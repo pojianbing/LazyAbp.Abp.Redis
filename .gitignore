@@ -3,3 +3,26 @@
 ################################################################################
 
 /LazyAbp.Abp.Redis.Abstractions/bin
+/LazyAbp.Abp.Redis.Abstractions/obj
+/LazyAbp.Abp.Redis.CsRedis/bin
+/LazyAbp.Abp.Redis.CsRedis/obj
+/samples/sample.Application/bin
+/samples/sample.Application/obj
+/samples/sample.Application.Contracts/obj
+/samples/sample.Application.Contracts/bin
+/samples/sample.DbMigrator/obj
+/samples/sample.DbMigrator/bin
+/samples/sample.Domain/bin
+/samples/sample.Domain.Shared/bin
+/samples/sample.Domain.Shared/obj
+/samples/sample.EntityFrameworkCore/bin
+/samples/sample.EntityFrameworkCore/obj
+/samples/sample.EntityFrameworkCore.DbMigrations/bin
+/samples/sample.EntityFrameworkCore.DbMigrations/obj
+/samples/sample.HttpApi/bin
+/samples/sample.HttpApi/obj
+/samples/sample.HttpApi.Client/bin
+/samples/sample.HttpApi.Client/obj
+/samples/sample.Web/bin
+/samples/sample.Web/obj
+/samples/sample.Domain/obj
