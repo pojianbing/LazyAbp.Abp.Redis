@@ -1,7 +1,7 @@
 # LazyAbp.Abp.Redis
 abp vnext CSRedisCore模块
 
-### 安装
+## 安装
 1. 安装NuGet packages
    * LazyAbp.Abp.Redis.CsRedis
 
@@ -39,7 +39,7 @@ abp vnext CSRedisCore模块
     }
    ```
 
-### 使用
+## 使用
    ```
      public class IndexModel : samplePageModel
      {
