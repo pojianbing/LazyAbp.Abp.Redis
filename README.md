@@ -3,7 +3,7 @@ abp vnext CSRedisCore模块
 
 ## 安装
 1. 安装NuGet packages
-   * LazyAbp.Abp.Redis.CsRedis
+     * LazyAbp.Abp.Redis.CsRedis
 
 2. 添加模块依赖 DependsOn(typeof(AbpRedisCsRedisModule))
 
